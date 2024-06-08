@@ -2,7 +2,7 @@
   <div id="demo-wrap">
     <h3>Render Stack Image</h3>
     <el-alert
-      title="Loading demo data source from cornerstone server, please wait"
+      title="Loading data source from cornerstone server, please wait"
       type="warning"
     ></el-alert>
     <div id="element1" class="cornerstone-item"></div>

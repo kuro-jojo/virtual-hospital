@@ -2,7 +2,7 @@
   <div>
     <h3>Window Level Basic Usage</h3>
     <el-alert
-      title="Loading demo data source from the cornerstone server, it may take a while"
+      title="Loading data source from the cornerstone server, it may take a while"
       type="warning"
     ></el-alert>
     <el-alert

@@ -2,8 +2,8 @@
   <div>
     <h3>Render PET</h3>
     <el-alert
-      title="Loading demo data source from the cornerstone server, please wait as it may take some time"
-      type="info"
+      title="Loading data source from cornerstone server, please wait as it may take some time"
+      type="warning"
     ></el-alert>
     <div id="demo-wrap">
       <div id="element1" class="cornerstone-item"></div>

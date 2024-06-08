@@ -2,7 +2,7 @@
   <div>
     <h3>Render Volume</h3>
     <el-alert
-      title="Loading demo data source from cornerstone server, please wait as it may take some time"
+      title="Loading data source from cornerstone server, please wait as it may take some time"
       type="warning"
     ></el-alert>
     <div id="demo-wrap">

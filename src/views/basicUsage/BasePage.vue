@@ -6,7 +6,7 @@
       cause the DOM to not be found after the data is returned
     </el-divider>
     <el-alert
-      title="The demo is a single-page system. If there is an error message after switching pages, it is mainly related to destroying and reloading Cornerstone. Simply refresh the page."
+      title="The is a single-page system. If there is an error message after switching pages, it is mainly related to destroying and reloading Cornerstone. Simply refresh the page."
       type="danger"
     >
     </el-alert> -->

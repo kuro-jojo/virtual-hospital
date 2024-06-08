@@ -6,10 +6,8 @@
       <div id="element2" class="cornerstone-item"></div>
       <div id="element3" class="cornerstone-item"></div>
     </div>
-    <el-alert
-      title="Loading demo data source from cornerstone server, please wait as it may take some time"
-      type="warning"
-    ></el-alert>
+    <el-alert title="Loading data source from cornerstone server, please wait as it may take some time"
+      type="warning"></el-alert>
   </div>
 </template>
 

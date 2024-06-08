@@ -2,7 +2,7 @@
   <div>
     <h3>Basic Segmentation</h3>
     <el-alert
-      title="Loading demo data from the cornerstone server, it may take a while"
+      title="Loading data from the cornerstone server, it may take a while"
       type="warning"
     ></el-alert>
     <el-alert
